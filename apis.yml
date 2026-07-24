@@ -1,7 +1,30 @@
 aid: cavium
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cavium.png
 name: Cavium
-description: Cavium is a company surfaced as a portfolio company of menlo-ventures and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Cavium, Inc. was a fabless semiconductor company founded in 2000 and
+  headquartered in San Jose, California, that designed multicore processors and
+  networking silicon for enterprise, data center, cloud, and service-provider
+  infrastructure. Its product families included OCTEON multicore MIPS and ARM
+  network and security processors, ThunderX ARM-based server SoCs, Nitrox
+  security processors, LiquidIO intelligent adapters and smart NICs, and the
+  FastLinQ Ethernet and Xpliant switch lines it gained through its 2016
+  acquisition of QLogic. Cavium was a publicly traded company (NASDAQ: CAVM)
+  before being acquired by Marvell Technology Group in July 2018 for roughly
+  6 billion US dollars. Its technology now ships as part of Marvell's networking
+  and infrastructure processor portfolio. As a silicon and hardware vendor,
+  Cavium never operated a public developer API program or web API surface.
 url: https://raw.githubusercontent.com/api-evangelist/cavium/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +32,32 @@ x-backed-by:
 - menlo-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: marvell
+x-acquired-date: '2018-07-06'
+x-industry: semiconductors
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Semiconductors
+- Networking
+- Security
+- Processors
+- Hardware
+- ARM
+- Silicon
+- Data Center
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
