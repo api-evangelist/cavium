@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cavium is a company surfaced as a portfolio company of menlo-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: menlo-ventures
+Cavium, Inc. was a fabless semiconductor company founded in 2000 and headquartered in San Jose, California, that designed multicore processors and networking silicon for enterprise, data center, cloud, and service-provider infrastructure. Its product families included OCTEON multicore MIPS and ARM network and security processors, ThunderX ARM-based server SoCs, Nitrox security processors, LiquidIO intelligent adapters and smart NICs, and the FastLinQ Ethernet and Xpliant switch lines it gained through its 2016 acquisition of QLogic. Cavium was a publicly traded company (NASDAQ: CAVM) before being acquired by Marvell Technology Group in July 2018 for roughly 6 billion US dollars. Its technology now ships as part of Marvell's networking and infrastructure processor portfolio. As a silicon and hardware vendor, Cavium never operated a public developer API program or web API surface.
+
+**Areas:** Company · Semiconductors · Networking · Security · Processors · Hardware · ARM · Silicon · Data Center · Acquired
+
+## Cavium on APIs.io (historical record)
+
+Everything profiled for Cavium is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cavium/](https://apis.io/providers/cavium/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cavium: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cavium/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
